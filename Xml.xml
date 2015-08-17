@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="gb2312"?>
+<?xml-stylesheet type="text/xsl" href="catalog.xsl"?> 
+<CATALOG>
+<PET> 
+    <NAME> 
+        <COMMON> Parson Jack Russell </COMMON> 
+        <Animal>Canidae</Animal>
+    </NAME>
+    <PLACE>Devon</PLACE>
+	<EATING>Pet Food</EATING>   
+    <PRICE>$100</PRICE>
+    <PHOTO>thumb1.gif</PHOTO>
+	<DETAIL>The Parson is a relatively small active and lively mainly white coloured terrier. As they were originally used with foxhounds to go to ground after foxes they are built accordingly. They have long legs, which were ideal for keeping up with the horses; but their body is shaped to allow them to be able to get into small spaces.</DETAIL>
+	<INFO>Parson Jack Russell.html</INFO>
+</PET>
+
+<PRODUCT>
+    <NAME>
+        <COMMON>Pet House</COMMON>
+        <MATERIAL QUALITY>Wooden</MATERIAL QUALITY>
+    </NAME>   
+    <PRICE>$100</PRICE>
+	<DIFFICULTY>Easy</DIFFICULTY>>
+    <PHOTO>Pet House.jpg</PHOTO>
+	<DETAIL>Our range of PetPal plastic pet houses offer you and your pet the best of both worlds - convenience & comfort. Made with high quality eco-friendly durable plastic material, they are super easy to maintain & clean. With protection for your pet as a first priority, they also offer the maximum shade protection with UV coating & a light coloured roof top to reflect the sun.</DETAIL>
+	<INFO>Pet House.html</INFO>
+</PRODUCT>
+
+<FOOD> 
+    <NAME>
+        <COMMON>Pet Food</COMMON> 
+    </NAME>
+    <PRICE>$100</PRICE>
+    <PHOTO>Pet Food.jpg</PHOTO>
+	<DETAIL>CopRice Complete All Natural Rabbit & Guinea Pig Pellets is a scientifically formulated and nutritionally balanced complete pelleted feed that is designed specifically for rabbits and guinea pigs. </DETAIL>
+	<INFO>Pet Food.html</INFO>
+</FOOD>
+
+<PET>
+    <NAME>
+        <COMMON>Flat-Coated Retriever</COMMON>
+        <Animal>Canidae</Animal>
+    </NAME>
+	<PLACE>Lesser Newfoundland</PLACE>
+	<EATING>Pet Food</EATING>
+    <PRICE>$100</PRICE>
+    <PHOTO>Flat-Coated Retriever.jpg</PHOTO>
+	<DETAIL>The Flat-coat is a long, lean looking dog, bright and active with an intelligent expression. They have dense, flat coats with high lustre, their legs and tails are well feathered and they give the impression of power and raciness.
+	</DETAIL>
+	<INFO>Flat-Coated Retriever.html</INFO>
+</PET>
+
+<PET> 
+    <NAME> 
+        <COMMON>Black Scorpion</COMMON> 
+        <Animal>Insecta</Animal> 
+    </NAME>
+    <PLACE>Asian</PLACE>
+    <EATING>Insect</EATING>
+    <PRICE>$100</PRICE>
+    <PHOTO>Black Scorpion.jpg</PHOTO>
+	<DETAIL>A black scorpion is large, averaging over 10 cm in length, is known to have a medium to long lifespan (estimated up to 8 years) and is quite hardy. Under direct sunlight, the black scorpion’s coloration is deep black with no tints of any other coloration, while the Malaysian species would appear to have shades of a greenish or bluish tint.</DETAIL>
+	<INFO>Black Scorpion.html</INFO>
+</PET>
+
+<PET>
+    <NAME>
+        <COMMON>boxer doy</COMMON>
+        <Animal>Canidae</Animal>
+    </NAME>
+    <PLACE>German</PLACE>
+    <Eating>Pet food</Eating>
+    <PRICE>$100</PRICE>
+    <PHOTO>boxer dog.jpg</PHOTO>
+	<DETAIL> The boxer is a medium sized dog, very muscular, sturdy and deep chested. They have a short muzzle and a slightly upturned chin. The head and muzzle have wrinkly skin, which gives the boxer its unique appearance. When this dog moves it covers the ground quickly. The gait makes it look very noble, and the movement shows great energy in the powerful looking legs. The boxer is built to cover many types of ground. </DETAIL>
+	<INFO>boxer dog.html</INFO>
+</PET>
+
+<PET> 
+    <NAME> 
+        <COMMON>Maine Coon </COMMON> 
+        <Animal>Feline</Animal> 
+    </NAME>
+    <PLACE>USA</PLACE>
+    <EATING>Pet Food</EATING>
+    <PRICE>$100</PRICE>
+    <PHOTO>Maine Coon .jpg</PHOTO>
+	<DETAIL>The Maine Coon is massive in size, with powerful muscular bodies and substantial legs. The head is slightly longer than it is wide and the nasal bridge is half way between the ear line and the tip of the nose. The muzzle is square with a firm chin and the chin, upper lip and nose leather should fall in the same vertical line. The bite must be level. The profile shows a concave curve at the nasal bridge with no distinct break. The ears are large and tall, wide at the base and tapering to a pointed tip. They are set high on the head but well apart. The eyes are spaced well apart and are full and round with a slightly oblique set. The colour of the eyes maybe green, gold or copper and eye colour bears no relation to coat colour. In white cats it is possible to have blue or odd eyes. The body is large and muscular with a broad chest. The back is long and the legs are substantial and form a rectangular shape with the body. The tail is long, at least the length of the back, and tapers from a wide base to the tip.</DETAIL>
+	<INFO>Maine Coon .html</INFO>
+</PET>
+
+<PET>
+    <NAME>
+        <COMMON>Afghan Hound</COMMON>
+        <Animal>Canidae</Animal>
+    </NAME>
+    <PLACE>Northern African</PLACE>
+    <EATING>Pet Food</EATING>
+    <PRICE>$100</PRICE>
+    <PHOTO>Afghan Hound.jpg</PHOTO>
+	<DETAIL>With their aristocratic appeal and supreme dignity, Afghans are one of the flashiest of dogs making them the top show-dog contenders. Their long silky coats, eastern expressions and commanding statures ensure they are noticed wherever they go. At all times, their heads are held high, showing their nobility and elevated self-esteem. It is a wonderful sight to see an Afghan in full flight, covering the ground with long, powerful strides, its long, silky coat flowing in the breeze.</DETAIL>
+	<INFO>Afghan Hound.html</INFO>
+</PET>
+
+<PET>
+    <NAME>
+        <COMMON>Siberian Husky </COMMON>
+        <Animal>Canidae</Animal>
+    </NAME>
+    <PLACE>Siberia</PLACE>
+    <EATING>Pet Food</EATING>
+    <PRICE>$100</PRICE>
+    <PHOTO>Siberian Husky.jpg</PHOTO>
+	<DETAIL>Medium-sized dogs whose proportions suggest a balance of power, speed and endurance. With a double-layered, medium-length coat, erect ears and a brush tail, this breed makes an impressive sight on the move. They are quick and light on their feet and move in a seemingly effortless manner, with good reach in the front and good drive from behind. </DETAIL>
+	<INFO>Siberian Husky .html</INFO>
+</PET>
+<PET>
+    <NAME>
+        <COMMON>Black-billed Amazon</COMMON>
+        <Animal>Aves</Animal>
+    </NAME>
+    <PLACE>Jamaica and West Indies</PLACE>
+    <EATING>Insect</EATING>
+    <PRICE>$100</PRICE>
+    <PHOTO>Black-billed Amazon.jpg</PHOTO>
+	<DETAIL>This parrot averages 10 ins (25 cm) in length and is mostly green with small patches of red on the wing and sometimes flecked on the head. The ear-coverts are tinged blackish and the under wing-coverts and undersides of flight feathers are bluish-green. Its feet are grey and the irides (= plural of iris) are dark brown.</DETAIL>
+	<INFO>Black-billed Amazon.html</INFO>
+</PET>
+<PET>
+    <NAME>
+        <COMMON>Birman</COMMON>
+        <Animal>Aves</Animal>
+    </NAME>
+    <PLACE>Burma</PLACE>
+    <EATING>Pet Food</EATING>
+    <PRICE>$100</PRICE>
+    <PHOTO>Birman.jpg</PHOTO>
+	<DETAIL>The Birman is a most attractive cat, exceptional to look at and very photogenic. They are a semi-long haired cat breed that are broadly similar in colour to siamese cats except that the tips of their feet are pure white.</DETAIL>
+	<INFO>Birman.html</INFO>
+</PET>
+
+</CATALOG>

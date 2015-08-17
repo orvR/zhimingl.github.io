@@ -1,0 +1,44 @@
+create table Account_Info(
+       "USERNAME" VARCHAR2(30),
+       "PASSWORD" VARCHAR2(30),
+       "EMAIL" VARCHAR2(50),
+       "PHONE" VARCHAR2(11),
+       "COMPANY" VARCHAR2(100),
+       "ADDRESS" VARCHAR2(50)
+      );
+
+
+_______________________________________________________________________________________________
+CREATE TABLE PRODUCT(
+ID varchar(10) NOT NULL,
+Name varchar(50) NOT NULL, 
+Type varchar(10) NOT NULL, 
+Price NUMBER(10,2),
+Photo varchar(50) NOT NULL,
+Link varchar(100) NOT NULL
+);
+INSERT INTO PRODUCT VALUES('01','Flat-Coated Retriever','pet',100.00,'images/p1.jpg','p1.php');
+INSERT INTO PRODUCT VALUES('02','Birman','Cat',100.00,'images/p2.jpg','p2.php');
+INSERT INTO PRODUCT VALUES('03','Parson','dog',100.00,'images/p3.gif','p3.php');
+INSERT INTO PRODUCT VALUES('04','Pet House','pet',100.00,'images/p4.gif','p4.php');
+INSERT INTO PRODUCT VALUES('05','CopRice','food',99.95,'images/p5.gif','p5.php');
+
+_______________________________________________________________________________________________
+
+CREATE TABLE Order_Report(
+ID varchar(10),
+ORDER_ID varchar(10),
+PRODUCT_NAME varchar(100),
+USER_NAME varchar(100), 
+EMAIL varchar(100), 
+CARD_TYPE varchar(50),
+CARDNUMBER varchar(16),
+EXPIRE_DATE varchar(10),
+SCURE_CODE varchar(3),
+DAY varchar(20),
+PRICE NUMBER
+);
+
+
+
+
